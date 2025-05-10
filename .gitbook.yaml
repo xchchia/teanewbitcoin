@@ -1,0 +1,23 @@
+root:
+  ./docs/
+redirects:
+  installing-w/out-brew: installing-pkgx.md
+  pantry: pkging/pantry.md
+  getting-started: getting-started.md
+  quickstart: installing-pkgx.md
+
+  # links should never die
+  docker: installing-pkgx.md
+  ci-cd: installing-pkgx.md
+  scripts: scripting.md
+  run-anywhere/terminals: installing-pkgx.md
+  run-anywhere/docker: installing-pkgx.md
+  run-anywhere/ci-cd: installing-pkgx.md
+  run-anywhere/scripts: scripting.md
+  pantry.md: pkging/pantry.md
+  pantry-api: pkging/pantry-api.md
+
+  pkgx-install: README.md#pkgm
+  install: README.md#pkgm
+  support: README.md#support
+  dev: README.md#dev
